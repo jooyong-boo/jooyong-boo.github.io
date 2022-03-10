@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/blog/static/css/main.bf38a865.css",
-    "main.js": "/blog/static/js/main.6413fa11.js",
-    "static/js/787.23170c61.chunk.js": "/blog/static/js/787.23170c61.chunk.js",
-    "static/media/background.jpeg": "/blog/static/media/background.739617fec866998d6b35.jpeg",
-    "static/media/logo.svg": "/blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/blog/index.html",
-    "main.bf38a865.css.map": "/blog/static/css/main.bf38a865.css.map",
-    "main.6413fa11.js.map": "/blog/static/js/main.6413fa11.js.map",
-    "787.23170c61.chunk.js.map": "/blog/static/js/787.23170c61.chunk.js.map"
+    "main.css": "/Shoeshop/static/css/main.db0433db.css",
+    "main.js": "/Shoeshop/static/js/main.46e9dea4.js",
+    "static/js/787.23170c61.chunk.js": "/Shoeshop/static/js/787.23170c61.chunk.js",
+    "static/media/background.jpeg": "/Shoeshop/static/media/background.739617fec866998d6b35.jpeg",
+    "static/media/logo.svg": "/Shoeshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shoeshop/index.html",
+    "main.db0433db.css.map": "/Shoeshop/static/css/main.db0433db.css.map",
+    "main.46e9dea4.js.map": "/Shoeshop/static/js/main.46e9dea4.js.map",
+    "787.23170c61.chunk.js.map": "/Shoeshop/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf38a865.css",
-    "static/js/main.6413fa11.js"
+    "static/css/main.db0433db.css",
+    "static/js/main.46e9dea4.js"
   ]
 }
